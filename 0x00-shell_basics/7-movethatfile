@@ -1,0 +1,3 @@
+#!/bin/basih
+cd //tmp
+mv betty /tmp/my_first_directory
